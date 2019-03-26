@@ -6,3 +6,4 @@ Course overview
 * **HW4**: [Tridiagonal matrix algorithm](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)  
 * **HW5**: [Gauss-Seidel method](https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method)
 * **HW6**: [Lagrange polynomial interpolation](https://en.wikipedia.org/wiki/Lagrange_polynomial)
+* **HW7**: [Chebyshev polynomial interpolation](https://people.sc.fsu.edu/~jburkardt/f_src/chebyshev/chebyshev.html)
